@@ -1,0 +1,12 @@
+configuration:  
+  projectName: Book service
+server:
+  port: 8000
+message:
+  greeting: Book service PROD application!
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: false

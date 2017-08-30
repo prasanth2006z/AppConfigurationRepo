@@ -1,0 +1,6 @@
+configuration:  
+  projectName: application
+server:
+  port: 8000
+message:
+  greeting: User service PROD application!

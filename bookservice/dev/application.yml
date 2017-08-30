@@ -1,0 +1,6 @@
+configuration:  
+  projectName: Book service
+server:
+  port: 9999
+message:
+  greeting: Book service DEV application!
